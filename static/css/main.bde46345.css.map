@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.bde46345.css","mappings":"2EAEA,KAEE,iBAAkB,CADlB,sBAEF","sources":["index.css"],"sourcesContent":["@import url(\"https://fonts.googleapis.com/css2?family=Poppins&display=swap\");\r\n\r\nhtml {\r\n  scroll-behavior: smooth;\r\n  overflow-y: scroll;\r\n}\r\n"],"names":[],"sourceRoot":""}
